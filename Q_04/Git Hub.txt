@@ -1,0 +1,39 @@
+***On GIT cmd***
+
+git init
+git config --global user.name "Lahiru"
+git config --global user.email "mmlpradeep96@gmail.com"
+touch login.html
+touch index.css
+touch login.js
+git add .
+git status
+git branch
+git branch test
+git switch test 
+git checkout test 
+git checkout master
+git branch new 
+git branch
+git commit
+
+//Shift + I (to type message)
+Shift + : (Quit )
+After type (:wq) to quit commit window//
+
+git commit -m "Hello dear"
+git remote add origin https://url-----.git
+git push -f origin master
+
+
+
+
+***Creating new Repostary***
+***On GIT hub site.***
+***On GIT cmd***
+***Create 3 new files***
+
+
+
+
+
